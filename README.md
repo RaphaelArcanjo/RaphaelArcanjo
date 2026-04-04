@@ -2,6 +2,7 @@
 ### Desenvolvedor web fullstack  
 ## Constantemente estudando :books:  
 ### Encarando novos desafios pelas linguagens mais _"humanizadas"_ (Python, Ruby, Go) :technologist:  
+  - <img src="https://github.com/RaphaelArcanjo/Language-Logo-List/blob/main/background%20transparent/small/JAVA.png" width="15px" /> Java
   - <img src="https://github.com/RaphaelArcanjo/Language-Logo-List/blob/main/background%20transparent/small/PYTHON.png" width="15px" /> Python
   - <img src="https://github.com/RaphaelArcanjo/Language-Logo-List/blob/main/background%20transparent/small/RUBY.png" width="15px" /> Ruby
   - <img src="https://github.com/RaphaelArcanjo/Language-Logo-List/blob/main/background%20transparent/small/NODEJS.png" width="15px" /> NodeJS
@@ -17,7 +18,7 @@
   - <img src="https://github.com/RaphaelArcanjo/Language-Logo-List/blob/main/background%20transparent/small/VUE.png" width="15px" /> Vue/Nuxt
   - <img src="https://github.com/RaphaelArcanjo/Language-Logo-List/blob/main/background%20transparent/small/MYSQL.png" width="15px" /> MySQL
 ## Contatos  
-  - Tel: [\(22\) 99858\-0827](tel:\+5522998580827 "\(22\) 99858\-0827")
+  - Tel: [\(22\) 99715\-0554](tel:\+5522997150554 "\(22\) 99715\-0554")
   - E-mail: <raphael.cunha.br@gmail.com>
 <div>
   <a href="https://github.com/RaphaelArcanjo">
